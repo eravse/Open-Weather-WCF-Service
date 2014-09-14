@@ -1,0 +1,6 @@
+C:\Projects\OpenWeatherWCF\OpenWeatherWCF\obj\Debug\OpenWeatherWCF.csprojResolveAssemblyReference.cache
+C:\Projects\OpenWeatherWCF\OpenWeatherWCF\bin\OpenWeatherWCF.dll.config
+C:\Projects\OpenWeatherWCF\OpenWeatherWCF\bin\OpenWeatherWCF.dll
+C:\Projects\OpenWeatherWCF\OpenWeatherWCF\bin\OpenWeatherWCF.pdb
+C:\Projects\OpenWeatherWCF\OpenWeatherWCF\obj\Debug\OpenWeatherWCF.dll
+C:\Projects\OpenWeatherWCF\OpenWeatherWCF\obj\Debug\OpenWeatherWCF.pdb
